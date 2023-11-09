@@ -1,4 +1,5 @@
 i = int(input())
+
 for j in range(i):
     s = input()
     a = int(input())

@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+f = int(input())
+print ('KHÔNG PHẢI TAM GIÁC') if b - a == d - c == f - e else print('TAM GIÁC')
